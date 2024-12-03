@@ -1,7 +1,8 @@
 {
   "name": "recept-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://bereczkim.github.io/receptek",
   "dependencies": {
     "@emotion/react": "^11.13.5",
     "@emotion/styled": "^11.13.5",
