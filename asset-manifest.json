@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/receptek/static/css/main.e6c13ad2.css",
+    "main.js": "/receptek/static/js/main.7d838e0d.js",
+    "static/js/453.c67c418b.chunk.js": "/receptek/static/js/453.c67c418b.chunk.js",
+    "index.html": "/receptek/index.html",
+    "main.e6c13ad2.css.map": "/receptek/static/css/main.e6c13ad2.css.map",
+    "main.7d838e0d.js.map": "/receptek/static/js/main.7d838e0d.js.map",
+    "453.c67c418b.chunk.js.map": "/receptek/static/js/453.c67c418b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7d838e0d.js"
+  ]
+}
